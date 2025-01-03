@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/MainMenu.unity
+    guid: a0878b8a3f5d1e346a5c6503b9b41971
+  - enabled: 1
+    path: Assets/GameScene.unity
+    guid: 1f51b090a2ab09745b497ffe962e20ea
+  - enabled: 0
+    path: Assets/SPin/Demo/Wheel.unity
+    guid: 20b2661b1a63a7a40afa9c738fb68697
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 290a6e6411d135049940bec2237b8938, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4c1640683c539c14080cfd43fbeffbda, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 9e9f2958d1b4b4642ace1d0c7770650b, type: 2}
